@@ -1,0 +1,1 @@
+{ "name": "usage-bars", "version": "0.1.0", "description": "Context, session and weekly limit progress bars above the prompt", "types": "./types/index.d.ts" }

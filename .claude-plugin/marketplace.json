@@ -1,0 +1,11 @@
+{
+  "name": "claude-usage-bars",
+  "owner": { "name": "infinia", "url": "https://github.com/infinia" },
+  "plugins": [
+    {
+      "name": "usage-bars",
+      "source": "./",
+      "description": "Context, session and weekly limit progress bars above the prompt"
+    }
+  ]
+}
